@@ -1,0 +1,1 @@
+JavaScript Essential Training from Linkedin Learning
